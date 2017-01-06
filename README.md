@@ -5,6 +5,11 @@
 
 话不多说，言归正传，该版本将会在之前版本的基础上继续增加相应的功能。之前版本(暂且称为version 1.0.0)已完成功能：
 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
 1、 # [checkbox:unchecked] 账号登录  、
 2、 - [ ]文章发布(分类/关键词标签/普通编辑器)  
 3、 - [ ]按时间/标签/分类归档  
